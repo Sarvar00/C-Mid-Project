@@ -17,3 +17,10 @@ What we need to do is memorize the pictures and search the second
 What happens in the end.
 
 ![last](https://user-images.githubusercontent.com/59159103/162368815-d3f51010-8b47-48d3-a586-819034cc3dc0.png)
+
+
+
+Ramazan: Oh its work,nice )
+Nursultan Begaliev: it is so cool game for the memory,and we can practice for remebering things.
+Aibek:I guess this progrman is not work, but for my it is surprized.
+Arslan: It is useful game for memory and this so amazing.
