@@ -1,5 +1,19 @@
 This is the simple game for memory.Which is writed in the C # programming language.
 
+
+
+
+Ramazan: Oh its work,nice )
+
+Nursultan Begaliev: it is so cool game for the memory,and we can practice for remebering things.
+
+Aibek:I guess this progrman is not work, but for my it is surprized.
+
+Arslan: It is useful game for memory and this so amazing.
+
+
+
+
 This if first fing that we see
 
 
@@ -20,7 +34,3 @@ What happens in the end.
 
 
 
-Ramazan: Oh its work,nice )
-Nursultan Begaliev: it is so cool game for the memory,and we can practice for remebering things.
-Aibek:I guess this progrman is not work, but for my it is surprized.
-Arslan: It is useful game for memory and this so amazing.
